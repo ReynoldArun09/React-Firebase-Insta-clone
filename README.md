@@ -1,15 +1,10 @@
-# Project Title
-Instagram Clone
+ # Instagram Clone
 
 ## Tech Stack
 
 - **Client:** React, Chakra UI
 - **Server:** Firebase
 
-
-## 🔗 Links
-- Live: 
-- Code: https://github.com/ReynoldArun09/React-Firebase-Insta-clone
 
 ## Table of Contents
 
